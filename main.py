@@ -1,2 +1,2 @@
 print("hello")
-print("World")
+print("Workspace is ready")
